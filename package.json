@@ -1,0 +1,22 @@
+{
+  "name": "cap-ship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "cap": "^0.2.1",
+    "cuid": "^2.1.8",
+    "got": "^11.8.5",
+    "ip-header": "^0.1.2",
+    "lodash": "^4.17.21",
+    "through2": "^4.0.2",
+    "udp-header": "^0.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
